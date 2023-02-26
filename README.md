@@ -44,6 +44,11 @@
     
 ![image](https://user-images.githubusercontent.com/106515028/221400964-3a24b1fe-ba86-4baf-aa9c-4e253f4b295b.png)
 
+<br/><br/><br/>
+
+<h2>Usecase Diagram</h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221401085-1cf8c445-a56e-4d35-9362-f4a7a2ad9a57.png)
 
     
 
