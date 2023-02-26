@@ -41,6 +41,9 @@
 <h2>유사사이트 분석</h2>
 
 ![image](https://user-images.githubusercontent.com/106515028/221400934-67db680f-bb26-40ed-a401-c894ca06a725.png)
+    
+![image](https://user-images.githubusercontent.com/106515028/221400964-3a24b1fe-ba86-4baf-aa9c-4e253f4b295b.png)
+
 
     
 
