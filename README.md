@@ -174,6 +174,10 @@
     
 ![image](https://user-images.githubusercontent.com/106515028/221404705-6e77cabc-4671-4d2a-afc0-c9f6e648b47e.png)
 
-
+<br/><br/><br/>
+    
+<h2>● 채팅 / 챌린지 </h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221404792-e508380b-7964-42fe-bbad-f8f676068c73.png)
 
 
