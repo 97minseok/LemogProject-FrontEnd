@@ -176,7 +176,7 @@
 
 <br/><br/><br/>
     
-<h2>● 채팅 /  </h2>
+<h2>● 채팅 / 랭킹</h2>
     
 ![image](https://user-images.githubusercontent.com/106515028/221404792-e508380b-7964-42fe-bbad-f8f676068c73.png)
 
