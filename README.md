@@ -80,5 +80,26 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&fontColor=white"> 
     
 <img src="https://img.shields.io/badge/MyBatis-DA1F26?style=for-the-badge&logo=MyBatis&logoColor=white&fontColor=white">  
-       
     
+    
+<h3>Data Base</h3>
+    
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&fontColor=white">
+
+
+<h3>Version</h3>
+    
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white&fontColor=white">
+    
+    
+<h3>WebServer</h3>
+    
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white&fontColor=white">
+    
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white&fontColor=white">
+    
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&fontColor=white">
+    
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white&fontColor=white">
+    
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white&fontColor=white">
