@@ -60,7 +60,7 @@
 
 <h2>개발환경</h2>
 
-<li> <h3>Fonrt End</h3>
+<h3>Fonrt End</h3>
     
 
      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&fontColor=white">
@@ -73,6 +73,6 @@
     
     
     
-<li> <h3>Back End</h3>
+<h3>Back End</h3>
        
     
