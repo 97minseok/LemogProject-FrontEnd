@@ -154,4 +154,26 @@
 <h2>● Feed</h2>
     
 ![image](https://user-images.githubusercontent.com/106515028/221404294-fb233ef3-9f02-43ab-8e52-a75f909d2368.png)
+    
+<br/><br/><br/>
+    
+<h2>● Challenge</h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221404560-ffd590fd-bc9a-47b3-8b41-36157d022a68.png)
+    
+<br/><br/><br/>
+    
+<h2>● 회원정보</h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221404641-226e088e-2f4f-48e3-b50d-b1b1930e8e6e.png)
+    
+ 
+<br/><br/><br/>
+    
+<h2>● 검색</h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221404705-6e77cabc-4671-4d2a-afc0-c9f6e648b47e.png)
+
+
+
 
