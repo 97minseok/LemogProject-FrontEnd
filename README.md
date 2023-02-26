@@ -147,6 +147,11 @@
     
 <h2>● 마이 페이지</h2>
     
+![image](https://user-images.githubusercontent.com/106515028/221404463-b7fb9760-c18c-418b-a2a1-131f4bf0113a.png)
 
-
+<br/><br/><br/>
+    
+<h2>● Feed</h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221404294-fb233ef3-9f02-43ab-8e52-a75f909d2368.png)
 
