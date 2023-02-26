@@ -139,8 +139,14 @@
     
 <br/><br/><br/>
     
-<h2>● </h2>
+<h2>● 메인 페이지</h2>
     
-![image](https://user-images.githubusercontent.com/106515028/221403999-78ad9f8e-603e-482c-a1d4-576c1a2a6cf0.png)
+![image](https://user-images.githubusercontent.com/106515028/221404226-cd0a08c1-b3ce-4db0-96fc-e77e13d7c6d3.png)
+    
+<br/><br/><br/>
+    
+<h2>● 마이 페이지</h2>
+    
+
 
 
