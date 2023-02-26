@@ -75,6 +75,8 @@
     
 <h3>Back End</h3>
     
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&fontColor=white">    
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&fontColor=white"> 
+    
+<img src="https://img.shields.io/badge/MyBatis-DA1F26?style=for-the-badge&logo=MyBatis&logoColor=white&fontColor=white">  
        
     
