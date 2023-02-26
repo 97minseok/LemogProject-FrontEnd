@@ -136,4 +136,11 @@
 <h2>● 회원가입</h2>
 
 ![image](https://user-images.githubusercontent.com/106515028/221403180-0f8911af-3a4c-4e38-91ea-df6cafebd1e8.png)
+    
+<br/><br/><br/>
+    
+<h2>● </h2>
+    
+![image](https://user-images.githubusercontent.com/106515028/221403999-78ad9f8e-603e-482c-a1d4-576c1a2a6cf0.png)
+
 
