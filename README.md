@@ -48,8 +48,11 @@
 
 <h2>Usecase Diagram</h2>
     
-![image](https://user-images.githubusercontent.com/106515028/221401085-1cf8c445-a56e-4d35-9362-f4a7a2ad9a57.png)
+![image](https://user-images.githubusercontent.com/106515028/221401191-dba3901e-371d-4c83-8232-ef2f00787f95.png)
 
+<br/><br/><br/>
+
+<h2>ER Diagram</h2>
     
 
     
