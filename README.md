@@ -8,6 +8,8 @@
 
 <br/><br/><br/>
 
-<h2>기획의도</h2>
+<h2>프로젝트 작업기간</h2>
 
-![image](https://user-images.githubusercontent.com/106515028/221399663-7fa92ece-c6e1-4378-a52f-371d7596013d.png)
+2022년 12월 29일 ~ 2023년 02월 20일
+
+
