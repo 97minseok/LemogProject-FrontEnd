@@ -123,7 +123,7 @@
 
 <br/><br/><br/>
 
-<h1>구현화면</h1>
+<h1>메인 구현화면</h1>
     
 <br/><br/><br/>
     
@@ -133,5 +133,7 @@
 
 <br/><br/><br/>
     
-<h2>● 로그인</h2>
+<h2>● 회원가입</h2>
+
+![image](https://user-images.githubusercontent.com/106515028/221403180-0f8911af-3a4c-4e38-91ea-df6cafebd1e8.png)
 
