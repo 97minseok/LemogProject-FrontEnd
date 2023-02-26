@@ -35,6 +35,13 @@
 <li> 공통된 목표의 사람들과의 교류
 <li> 함께 목표를 이룰 수 있는 챌린지 달성
 <li> 반복되는 일정을 손쉽게 등록할 수 있는 템플릿 
+
+<br/><br/><br/>
+
+<h2>유사사이트 분석</h2>
+
+![image](https://user-images.githubusercontent.com/106515028/221400934-67db680f-bb26-40ed-a401-c894ca06a725.png)
+
     
 
     
